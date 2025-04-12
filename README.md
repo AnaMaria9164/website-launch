@@ -18,3 +18,7 @@ This is a project to manage the launch of a website, showcasing project manageme
 ## How to contribute
 1. Check Issues for tasks
 2. Create pull requests for suggestions or changes
+
+## Project Board
+You can view the full project board for the "Website Launch Plan" here:  
+https://github.com/users/AnaMaria9164/projects/1
